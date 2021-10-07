@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Frontend",
+			"path": "../../Frontend"
+		},
+		{
+			"name": "ReactChart",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
