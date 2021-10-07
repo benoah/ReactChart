@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{94FEBD7D-FC60-4CED-80A0-1CA5C9EFC6F3}|Default">
+  <MonoDevelop.Ide.ItemProperties.INvasjonNorge.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="INvasjonNorge.API.csproj" Line="23" Column="80" />
+      <File FileName="Controllers/CompaniesController.cs" />
+      <File FileName="Startup.cs" Line="35" Column="10" />
+      <File FileName="Controllers/individualsController.cs" />
+      <File FileName="Program.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
